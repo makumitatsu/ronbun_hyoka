@@ -1,0 +1,14 @@
+
+papers_with_eval.json
+final~.jsonも削除
+
+graph.ipynbとkaiseki.ipynbを再実行する
+
+これで、グラフはしっかりと出るはず
+
+
+
+
+
+＝＝＝＝＝＝論文追加時＝＝＝＝＝
+LM, graph, kaisekiだけ再実行で大丈夫だと思う
